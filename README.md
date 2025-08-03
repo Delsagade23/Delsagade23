@@ -59,4 +59,4 @@ Hi, I'm Chandrasekhar Madhab Das, a passionate full-stack web developer with a l
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Chandrasekhar Madhab Das</a> Email: johndoe@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/chandrasekhar-madhab-das-8a9431292/" target="_blank">chandrasekhar madhab das</a> Email: chandrasekharmadhabdas2006@gmail.co</p>
